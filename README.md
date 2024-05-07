@@ -6,13 +6,13 @@ Guia de referência dos cursos e projetos desenvolvidos na Trilha _React Develop
 
 | Curso                             | Status Conclusão | Tempo    | Projeto                                                                                   | Certificado                                                  |
 | --------------------------------- | ---------------- | -------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| Fundamentos do React              | Concluído        | 11 horas | [01-calculadora](https://github.com/guilchaves/trilha-react-dio/tree/main/01-calculadora) | [Certificado](https://www.dio.me/certificate/3AA4C8A6/share) |
-| Conceitos Básicos da Biblioteca   | Concluído        | 8 horas  | [02-github-wiki](https://github.com/guilchaves/trilha-react-dio/tree/main/02-github-wiki) | [Certificado](https://www.dio.me/certificate/1D2EC782/share) |
-| Ampliando o Conhecimento em React | Concluído        | 7 horas  | [03-site-dio](https://github.com/guilchaves/trilha-react-dio/tree/main/03-dio-project)    | [Certificado](https://www.dio.me/certificate/FB49F0DC/share) |
-| React com TypeScript              | Concluído        | 4 horas  | [04-tela-login](https://github.com/guilchaves/trilha-react-dio/tree/main/04-login-form)   | [Certificado](https://www.dio.me/certificate/A3571922/share) |
-| Conceitos Avançados do React      | Concluído        | 5 horas  | [05-nextjs-blog](https://github.com/guilchaves/trilha-react-dio/tree/main/05-nextjs-blog) | [Certificado](https://www.dio.me/certificate/7EE90634/share) |
+| Fundamentos do React              | Concluído        | 11 horas | [01-calculadora](https://github.com/guilchaves/trilha-react-dio/tree/main/01-calculadora) | [Certificado](https://www.dio.me/certificate/ZXQ1JQZP/share) |
+| Conceitos Básicos da Biblioteca   | Concluído        | 8 horas  | [02-github-wiki](https://github.com/guilchaves/trilha-react-dio/tree/main/02-github-wiki) | [Certificado](https://www.dio.me/certificate/TE4EO9KC/share) |
+| Ampliando o Conhecimento em React | Concluído        | 7 horas  | [03-site-dio](https://github.com/guilchaves/trilha-react-dio/tree/main/03-dio-project)    | [Certificado](https://www.dio.me/certificate/XW2KC71A/share) |
+| React com TypeScript              | Concluído        | 4 horas  | [04-tela-login](https://github.com/guilchaves/trilha-react-dio/tree/main/04-login-form)   | [Certificado](https://www.dio.me/certificate/KUKZQOSZ/share) |
+| Conceitos Avançados do React      | Concluído        | 5 horas  | [05-nextjs-blog](https://github.com/guilchaves/trilha-react-dio/tree/main/05-nextjs-blog) | [Certificado](https://www.dio.me/certificate/7DDCOSX2/share) |
 
-Certificado de conclusão: [Formação React Developer](https://www.dio.me/certificate/C11C13A9/share)
+Certificado de conclusão: [Formação React Developer](https://www.dio.me/certificate/VP1UCVUN/share)
 
 ---
 
